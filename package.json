@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "webpack-dev-server"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
